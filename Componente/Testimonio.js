@@ -32,8 +32,8 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     minHeight: 250,
     backgroundColor: "#fff",
-    marginVertical: "10px",
-    marginHorizontal: "50px",
+    marginVertical: 10,
+    marginHorizontal: 5,
   },
   ImgContainer: {
     flex: 1,
@@ -43,6 +43,7 @@ const styles = StyleSheet.create({
     height: 250,
     width: "100%",
     margin: 2,
+    
   },
   contenedorTextoTestimonio: {
     flex: 2,
